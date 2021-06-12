@@ -12,12 +12,12 @@
 
 * Tech Specs:
 	* Language used - Scala
-	* Build Tool used - sbt (Kindly refer to https://www.scala-sbt.org/1.x/docs/Setup.html to get the steps)
+	* * Build Tool used - sbt (Kindly refer to https://www.scala-sbt.org/1.x/docs/Setup.html to get the steps)
 
 * Steps to run the application:
 	1. cd to the folder where the project is stored (/../../rbac).
-	2. Run sbt. This will open up the sbt console.
-	3. Type ~run. 			
+	2. 2. Run sbt. This will open up the sbt console.
+	3. 3. Type ~run. 			
 
 *Assumptions
 	1. There is only one type of resource
